@@ -15,3 +15,5 @@ jobs:
       - name: Do billing
         id: hello-billing
         uses: drym-org/abe-prototype@v1
+      - name: Create an issue with the computed outstanding balances
+        run: gh issue create -b ${{ steps.hello-billing.outputs.balances }} -t "Outstanding Balances" -l outstanding-balances
