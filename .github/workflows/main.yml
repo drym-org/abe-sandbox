@@ -10,6 +10,8 @@ jobs:
   billing_job:
     runs-on: ubuntu-latest
     name: Run the ABE billing prototype
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v3
       - name: Do billing
