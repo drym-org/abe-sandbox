@@ -7,4 +7,4 @@ jobs:
     steps:
       - name: Do billing
         id: hello-billing
-        uses: drym-org/abe-prototype
+        uses: drym-org/abe-prototype@v1
