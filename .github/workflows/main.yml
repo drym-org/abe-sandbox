@@ -1,4 +1,10 @@
-on: [push]
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'payments/**'
+      - '.github/workflows/main.yml'
 
 jobs:
   billing_job:
