@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Run the ABE billing prototype
     steps:
+	  - uses: actions/checkout@v3
       - name: Do billing
         id: hello-billing
         uses: drym-org/abe-prototype@v1
