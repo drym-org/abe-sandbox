@@ -1,0 +1,10 @@
+on: [push]
+
+jobs:
+  billing_job:
+    runs-on: ubuntu-latest
+    name: Run the ABE billing prototype
+    steps:
+      - name: Do billing
+        id: hello-billing
+        uses: drym-org/abe-prototype
