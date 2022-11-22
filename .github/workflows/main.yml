@@ -4,6 +4,7 @@ on:
       - main
     paths:
       - 'payments/**'
+      - 'payouts/**'
       - '.github/workflows/main.yml'
 
 jobs:
