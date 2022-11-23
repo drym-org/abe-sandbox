@@ -1,1 +1,1 @@
-Jane Doe, john@doe.com, $100.00
+Jane Doe, jane@doe.com, $100.00
