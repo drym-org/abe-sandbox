@@ -1,2 +1,2 @@
-john@doe.com, 25%
-jane@doe.com, 75%
+john@doe.com,25.45%
+jane@doe.com,74.55%
