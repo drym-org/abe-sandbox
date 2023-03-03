@@ -14,10 +14,10 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@scratch
       - name: Do billing
         id: hello-billing
-        uses: drym-org/old-abe@v3
+        uses: drym-org/old-abe@scratch
       - name: Create an issue with the computed outstanding balances
         run: |
           gh issue close `gh issue list -l outstanding-balances -s open --json number --jq .[].number`
