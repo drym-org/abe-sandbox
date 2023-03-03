@@ -14,7 +14,7 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@scratch
+      - uses: actions/checkout@v3
       - name: Do billing
         id: hello-billing
         uses: drym-org/old-abe@scratch
