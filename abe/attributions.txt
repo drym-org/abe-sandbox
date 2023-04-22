@@ -1,2 +1,3 @@
-john@doe.com,25%,0
-jane@doe.com,75%,1
+john@doe.com,25%,1
+jane@doe.com,70%,1
+dia@drym.org,5%,0
