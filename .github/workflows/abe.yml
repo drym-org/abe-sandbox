@@ -5,20 +5,20 @@ on:
     paths:
       - 'abe/payments/**'
       - 'abe/payouts/**'
-      - '.github/workflows/main.yml'
+      - '.github/workflows/abe.yml'
 
 jobs:
-  billing_job:
+  accounting_job:
     runs-on: ubuntu-latest
-    name: Run the ABE billing prototype
+    name: Do ABE accounting
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Fix git safe.directory in container
         run: mkdir -p /home/runner/work/_temp/_github_home && printf "[safe]\n\tdirectory = /github/workspace" > /home/runner/work/_temp/_github_home/.gitconfig
       - uses: actions/checkout@v3
-      - name: Do billing
-        id: helloBilling
+      - name: Do accounting
+        id: doAccounting
         uses: drym-org/old-abe@v1.2
       - name: Find balances issue
         id: findIssue
@@ -29,4 +29,4 @@ jobs:
           gh issue close "${{steps.findIssue.outputs.issueId}}"
       - name: Create an issue with the computed outstanding balances
         run: |
-          gh issue create -b "${{ steps.helloBilling.outputs.balances }}" -t "Outstanding Balances" -l outstanding-balances
+          gh issue create -b "${{ steps.doAccounting.outputs.balances }}" -t "Outstanding Balances" -l outstanding-balances
