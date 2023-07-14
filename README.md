@@ -2,10 +2,12 @@ A client repo for [Old Abe](https://github.com/drym-org/old-abe). This also doub
 
 # Workflows
 
-## Reset to template
+## Load template
+
+This resets the accounting state of the repo.
 
 ```
-$ ./reset.sh <template>
+$ ./load.sh <template>
 ```
 
 ... where `template` could be any folder in `templates/`. This restores the state of the `abe` folder to the contents of the template folder.
