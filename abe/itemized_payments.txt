@@ -1,6 +1,0 @@
-sam,6.000000000,94.00000000,True,payment-3.txt
-sam,6.000000000,94.00000000,True,payment-6.txt
-sam,6.000000000,94.00000000,True,payment-5.txt
-sam,6.000000000,94.00000000,True,payment-8.txt
-sam,6.000000000,94.00000000,True,payment-4.txt
-sam,6.000000000,94.00000000,True,payment-7.txt
