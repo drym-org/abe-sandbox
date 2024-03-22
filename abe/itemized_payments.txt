@@ -2,3 +2,7 @@ sam,6.000,94.000,True,d0605b9.txt
 sam,6.000,94.000,True,f402fd3.txt
 sam,6.000,94.000,True,036eaf6.txt
 sam,6.000,94.000,True,d986557.txt
+sam,6.000,94.000,True,e187057.txt
+sam,6.000,94.000,True,6dd60ac.txt
+sam,6.000,94.000,True,05b9fa7.txt
+sam,6.000,94.000,True,04c206d.txt
