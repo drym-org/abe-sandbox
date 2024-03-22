@@ -41,7 +41,7 @@ Old Abe uses many files in the `abe/` folder as the source of accounting informa
 - payments
   - Files corresponding to each individual payment made to the project.
 - payouts
-  - Files corresponding to each individual payment made by project trustees.
+  - Files corresponding to individual payments made to contributors by project trustees.
 - price.txt
   - The amount up to which payments are considered compensation for use, and above which they are considered attributable investment.
 - transactions.txt
