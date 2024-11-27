@@ -2,6 +2,7 @@
 
 import os
 from uuid import uuid4
+from datetime import datetime
 
 
 def _unique_name():
@@ -13,5 +14,8 @@ def record_payment(whom, amount, path):
     filename = unique_id + ".txt"
     filename = os.path.join(path, filename)
     with open(filename, 'w') as f:
-        f.write(",".join([whom, unique_id, amount, "dummydate"]))
+        f.write(",".join([whom,
+                          unique_id,
+                          amount,
+                          datetime.now().isoformat()]))
     return filename
