@@ -2,13 +2,13 @@
 
 | Name | Share |
 | ---- | ----- |
-sid | 41.86%
-emacs | 7.84%
+sid | 41.84%
+emacs | 7.83%
 simon | 6.24%
-evil | 6.06%
+evil | 6.05%
 paredit | 4.97%
 jeff | 4.96%
-hydra | 2.49%
+hydra | 2.48%
 tommy | 2.42%
 markgdawson | 2.11%
 riscy | 1.86%
@@ -21,24 +21,24 @@ pepperblue | 1.24%
 vim | 1.23%
 anonimitoraf | 1.16%
 melpazoid | 1.15%
-tsc | 1.13%
+tsc | 1.12%
 dcostaras | 1.02%
 gremlin | 0.98%
 tarsius | 0.62%
 tree-sitter | 0.57%
 anonymous | 0.51%
+Vijay | 0.28%
 racket mode | 0.20%
 cider | 0.20%
 arc mode | 0.19%
 scheme mode | 0.19%
+sam | 0.17%
 evil-surround | 0.16%
 evil-cleverparens | 0.16%
-devcarbon | 0.16%
-basilconto | 0.16%
+devcarbon | 0.15%
+basilconto | 0.15%
 slime | 0.10%
 sly | 0.10%
-parinfer | 0.06%
 drracket | 0.06%
+parinfer | 0.06%
 Hans | 0.01%
-Vijay | 0.28%
-sam | 0.11%
