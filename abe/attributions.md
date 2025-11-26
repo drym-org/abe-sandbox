@@ -2,9 +2,9 @@
 
 | Name | Share |
 | ---- | ----- |
-sid | 41.89%
+sid | 41.86%
 emacs | 7.84%
-simon | 6.25%
+simon | 6.24%
 evil | 6.06%
 paredit | 4.97%
 jeff | 4.96%
@@ -36,9 +36,9 @@ evil-surround | 0.16%
 evil-cleverparens | 0.16%
 devcarbon | 0.16%
 basilconto | 0.16%
+sam | 0.11%
 slime | 0.10%
 sly | 0.10%
 drracket | 0.06%
 parinfer | 0.06%
-sam | 0.05%
 Hans | 0.01%
