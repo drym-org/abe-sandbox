@@ -2,12 +2,12 @@
 
 | Name | Share |
 | ---- | ----- |
-sid | 41.84%
+sid | 41.81%
 emacs | 7.83%
 simon | 6.24%
 evil | 6.05%
-paredit | 4.97%
-jeff | 4.96%
+paredit | 4.96%
+jeff | 4.95%
 hydra | 2.48%
 tommy | 2.42%
 markgdawson | 2.11%
@@ -28,11 +28,11 @@ tarsius | 0.62%
 tree-sitter | 0.57%
 anonymous | 0.51%
 Vijay | 0.28%
+sam | 0.24%
 racket mode | 0.20%
 cider | 0.20%
 arc mode | 0.19%
 scheme mode | 0.19%
-sam | 0.17%
 evil-surround | 0.16%
 evil-cleverparens | 0.16%
 devcarbon | 0.15%
