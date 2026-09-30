@@ -1,3 +1,4 @@
 sam,6.29,93.71,True,de5252e.txt
 sam,6.30,93.70,True,09d3a8c.txt
 sam,5.40,94.60,True,a720b83.txt
+sam,0.30,4.70,True,7d04130.txt

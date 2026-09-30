@@ -32,7 +32,7 @@ racket mode | 0.20%
 cider | 0.20%
 arc mode | 0.19%
 scheme mode | 0.19%
-sam | 0.17%
+sam | 0.18%
 evil-surround | 0.16%
 evil-cleverparens | 0.16%
 devcarbon | 0.15%
