@@ -2,16 +2,16 @@
 
 | Name | Share |
 | ---- | ----- |
-sid | 41.77%
+sid | 41.75%
 emacs | 7.82%
 simon | 6.23%
 evil | 6.04%
-paredit | 4.96%
+paredit | 4.95%
 jeff | 4.95%
 hydra | 2.48%
-tommy | 2.42%
+tommy | 2.41%
 markgdawson | 2.10%
-riscy | 1.86%
+riscy | 1.85%
 apl | 1.67%
 jake | 1.64%
 doyougnu | 1.44%
@@ -26,8 +26,8 @@ dcostaras | 1.02%
 gremlin | 0.98%
 tarsius | 0.62%
 tree-sitter | 0.57%
-anonymous | 0.51%
-sam | 0.33%
+anonymous | 0.50%
+sam | 0.40%
 Vijay | 0.28%
 racket mode | 0.20%
 cider | 0.20%
