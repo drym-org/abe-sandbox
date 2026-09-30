@@ -2,7 +2,7 @@
 
 | Name | Share |
 | ---- | ----- |
-sid | 41.75%
+sid | 41.74%
 emacs | 7.82%
 simon | 6.23%
 evil | 6.04%

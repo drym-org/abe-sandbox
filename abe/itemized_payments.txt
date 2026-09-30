@@ -5,3 +5,4 @@ sam,0.30,4.70,True,7d04130.txt
 sam,9.01,140.99,True,0b67188.txt
 sam,6.29,93.71,True,d84a92e.txt
 sam,6.07,93.93,True,e0c77a7.txt
+sam,0.00,3.00,True,d67c173.txt
